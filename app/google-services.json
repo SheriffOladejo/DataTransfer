@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "71051804521",
+    "firebase_url": "https://selectivetrade-default-rtdb.firebaseio.com",
+    "project_id": "selectivetrade",
+    "storage_bucket": "selectivetrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71051804521:android:2c71454ef35a1738f647f8",
+        "android_client_info": {
+          "package_name": "com.e.selectivetradesadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71051804521-pbdvqi6o0vlkg9av0nkqrbvvj9tiael6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.selectivetradesadmin",
+            "certificate_hash": "3b3e5d44618ae681201209df4108a2f4dda413c3"
+          }
+        },
+        {
+          "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgYvjClff7tZLP9o63ES2zB5q9fd7pxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71051804521-2ecbqrjcj9barpqq8u0suolnp9ttr31h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "f"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71051804521:android:770f6bbe4b49e642f647f8",
+        "android_client_info": {
+          "package_name": "com.example.datatransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgYvjClff7tZLP9o63ES2zB5q9fd7pxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71051804521-2ecbqrjcj9barpqq8u0suolnp9ttr31h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "f"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71051804521:android:b8cd7e0a176c9ed5f647f8",
+        "android_client_info": {
+          "package_name": "com.selectivetrades.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71051804521-34r0ft80oo8eah098oetj753rr392nq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selectivetrades.chat",
+            "certificate_hash": "4044432a7cc08cbf488a7f2c1512ced9223f141a"
+          }
+        },
+        {
+          "client_id": "71051804521-bnudin5ij8on8gm1s3e0g1h8thqj1pna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selectivetrades.chat",
+            "certificate_hash": "3b3e5d44618ae681201209df4108a2f4dda413c3"
+          }
+        },
+        {
+          "client_id": "71051804521-gop2h11avo0v9opm6il37bjha8uhhkpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selectivetrades.chat",
+            "certificate_hash": "d34447d34565c70cb4c70e803816fc73e3b3cb7c"
+          }
+        },
+        {
+          "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgYvjClff7tZLP9o63ES2zB5q9fd7pxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71051804521-6r6d1e7pp3af9415hjd52a6ngp0cm69q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71051804521-2ecbqrjcj9barpqq8u0suolnp9ttr31h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "f"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
